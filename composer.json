@@ -1,0 +1,17 @@
+{
+    "name": "tieuthihuynhnhu/webbanhangapi",
+    "autoload": {
+        "psr-4": {
+            "Tieuthihuynhnhu\\Webbanhangapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TieuThiHuynhNhu",
+            "email": "nhutieu.27032004@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    }
+}
